@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Akria
 
 <!--
 **smart0327/smart0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there 👋 I'm Akria
 
 ### I'm currently working on blockchain stuff engineer on Cosmic Forces
 
