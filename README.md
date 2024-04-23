@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋 I'm Akria
+
+### I'm currently working on blockchain stuff engineer on Cosmic Forces
+
+### I'm learning smart contract auditing and will go continueously
+
+### Smart Contract Enginner & Security Researcher
+
+- Contributed for DEFI, Web3 Game on several blockchain companies such as CosmicForces(Crooze, Stash), BendDAO, Segment Finance and so on
+- I'm working as a smart contract auditor and researcher when I'm free
+  - [Auditor on Code4Rena](https://code4rena.com/@AS)
+  - [Auditor on Sherlock](https://audits.sherlock.xyz/watson/asauditor)
+  - [Bounty Hunter on Immunifi](https://immunefi.com/bug-bounty/)
+
+📫 How to reach me:
+
+Direct message or tag [me on Discord](https://discordapp.com/users/.akira0327) for the best response times.
