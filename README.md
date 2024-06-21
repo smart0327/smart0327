@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm currently working on blockchain stuff engineer on Cosmic Forces
-
-### I'm learning smart contract auditing and will go continueously
+### I'm currently working on senior smart contract engineer on Cosmic Forces
 
 ### Smart Contract Enginner & Security Researcher
 
