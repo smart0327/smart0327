@@ -45,7 +45,7 @@ Elevault offers a versatile array of investment mechanisms, each meticulously cr
 - Implemented Lottery Feature
 - Implemented Governor system
 
-<img align="right" width="300px" src="./assets/elevault.png">
+<img align="right" width="300px" src="https://github.com/smart0327/smart0327/blob/main/assets/elevault.png">
 
 - <a href="https://www.elevaultcoin.com/">elevaultcoin.com</a>
 - <a href="https://www.elevaultcoin.com/whitepaper">Whitepaper</a>
@@ -60,7 +60,7 @@ Streamer inu was created for one primary goal - becoming the face of streamers i
 - Implemented cross-chain trading based on Layer Zero technology
 - Implemented STRM trading bot to keep health of ecosystem
 
-<img align="right" width="300px" src="./assets/streamer-inu.png">
+<img align="right" width="300px" src="https://github.com/smart0327/smart0327/blob/main/assets/streamer-inu.png">
 
 - <a href="https://streamerinu.com/">Main Link(streamerinu.com)</a>
 - <a href="https://omni-trade.io/">Cross-chain trading app</a>
@@ -75,7 +75,7 @@ BendDAO is the first NFT liquidity protocol supporting instant NFT-backed loans,
 
 - Implemented NFT lending platform
 
-<img align="right" width="300px" src="./assets/benddao.png">
+<img align="right" width="300px" src="https://github.com/smart0327/smart0327/blob/main/assets/benddao.png">
 
 - <a href="https://www.benddao.xyz/">benddao.xyz</a>
 - <a href="https://docs.benddao.xyz/portal/">Docs</a>
@@ -89,7 +89,7 @@ Segment Finance is an advanced lending and borrowing platform for the Superchain
 
 - participating internal audit & refactoring of smart contract
 
-<img align="right" width="300px" src="./assets/segment.png">
+<img align="right" width="300px" src="https://github.com/smart0327/smart0327/blob/main/assets/segment.png">
 
 - <a href="https://www.segment.finance/">segment.finance</a>
 - <a href="https://docs.segment.finance/">Docs</a>
