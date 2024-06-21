@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm currently working as the senior smart contract engineer on Cosmic Forces
+### I'm currently working as the senior solidity engineer on Cosmic Forces
 
 ### Smart Contract Enginner & Security Researcher
 
