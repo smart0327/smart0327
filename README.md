@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Smart Contract Enginner & Security Researcher
 
 - Contributed for DEFI, Web3 Game on several blockchain companies such as CosmicForces(Crooze, Stash), BendDAO, Segment Finance and so on
-- [Visit my resume](https://drive.google.com/file/d/1aqGf1pQgy9k945q4cTETBBdNrDIMnhUA/view?usp=sharing)
+- [Visit my resume](https://drive.google.com/file/d/1sexpob_u9uF9kHp50QThhGzhwyYrlCX2/view?usp=drive_link)
 - I'm working as a smart contract auditor and researcher when I'm free
   - [Auditor on Code4Rena](https://code4rena.com/@AS)
   - [Auditor on Sherlock](https://audits.sherlock.xyz/watson/asauditor)
